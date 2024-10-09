@@ -10,7 +10,7 @@ import DrowerMenu from './components/DrowerMenu.vue'
   <div>
     <MainHeader class="sticky z-10" />
     <MainSectionTop class="z-0" />
-    <DrowerMenu />
+    <!-- <DrowerMenu /> -->
     <MainContent />
     <ModalDialog />
   </div>
