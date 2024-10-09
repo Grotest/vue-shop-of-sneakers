@@ -7,7 +7,7 @@
 it's a PET project Online cinema. This project is designed for training purposes only.
 Frontend with API call is develop. 
 
-<h2 align="center>The project is not finished and is still under development</h2>
+<h2 align="center"> The project is not finished and is still under development</h2>
 
 ## Setup
 
